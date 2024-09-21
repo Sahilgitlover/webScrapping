@@ -1,0 +1,4 @@
+Flask
+pymongo
+bs4
+urllib
